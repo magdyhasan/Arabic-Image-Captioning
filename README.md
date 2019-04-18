@@ -1,5 +1,4 @@
 # Arabic Image Captioning
-* The project is still in project
 - Using Flickr8k_Dataset
 - First open "flickr_token_txt_ara.ipynb" to load the translated text
 - Then open "create_token_arabic.ipynb" to create a keras tokenizer
